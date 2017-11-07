@@ -7,8 +7,8 @@ The World's First Proof-of-Stake Smart Contract Token on Ethereum
 * **Decimals**: 18
 * **Standard**: ERC20 & PoSTokenStandard
 * **Platform**: Ethereum
-* **Maximum Total Supply**: 12,000,000 POS
-* **Initial Supply**: 3,600,000 POS
+* **Maximum Total Supply**: 12,000,000 EAGLE
+* **Initial Supply**: 3,600,000 EAGLE
 * **Minimum Coin Age**: 3 Days
 * **Maximum Coin Age**: 90 Days
 * **PoS Annual Interest**
